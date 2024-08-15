@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bayron Correa Paez</h1>
-<h3 align="center">A passionate android developer from Costa Rica</h3>
+<h3 align="center">A passionate Android Developer from Costa Rica</h3>
 
-- 💬 Ask me about **Android Studio,Xamarin, Visual Basic, Java, Python, C#**
+- 💬 Ask me about **Android Studio, Java, Python, C#, Kotlin**
 
 - 📫 How to reach me **bayron800@hotmail.com**
 
